@@ -58,6 +58,3 @@ L'objectif principal de ce tableau de bord est d'aider les responsables commerci
 ## Aperçu du Dashboard
 
 ![Dashboard](PBI%201.png)
-## Aperçu du Dashboard
-
-![Dashboard](PBI 1.png)
